@@ -1,1 +1,1 @@
-# housing-data-prediction-using-linear-regression
+https://raw.githubusercontent.com/huzaifsayed/Linear-Regression-Model-for-House-Price-Prediction/master/USA_Housing.csv
